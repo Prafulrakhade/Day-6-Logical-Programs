@@ -12,7 +12,7 @@ namespace LogicalProblems
         {
             int num;
             int sum = 0;
-            Console.Write("Enter the number for checking Plerfect Number or not : ");
+            Console.Write("Enter the number for checking Perfect Number or not : ");
             num = int.Parse(Console.ReadLine());
             for (int i = 1; i < num; i++)
             {
